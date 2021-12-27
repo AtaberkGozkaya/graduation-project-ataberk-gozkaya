@@ -1,4 +1,3 @@
-# graduation-project-ataberk-gozkaya
 # Getir Nodejs Case Study
 
 
